@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-este es un repositorio de prueba del modulo 2
+Erika 
+
+Este proyecto es una prueba  del modulo 2 para clonar de github a mi escritorio
